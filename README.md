@@ -21,3 +21,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 5. You can click on the box to see more details related to People and relationships with Planet and Starwars.
 6. Just to show you that Other pages can also be implemented in same way by using many ways in the app.
 7. Earlier I have submitted version using javascript because of the busy schedule in office I was not able to implement other details. Thanks :)
+
+![image](https://user-images.githubusercontent.com/73927753/234555654-4ebeb955-78f0-4111-ac54-ef4a720be2e1.png)
